@@ -1,2 +1,3 @@
-# kir-hyprland-rice
-My Hyprland ArchLinux rice
+# My Hyprland rice
+
+Testing ArchLinux
