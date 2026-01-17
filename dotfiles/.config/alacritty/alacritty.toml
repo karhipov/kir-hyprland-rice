@@ -1,0 +1,38 @@
+# General options
+[general]
+# import = [] # import additional configuration files
+
+# Window configuration
+[window]
+# cdecorations = "Full" # Borders and title bar
+opacity = 0.7 # Opaque
+padding = {x=8,y = 8 }
+# padding = { x = 0, y = 0 } # Blank space added around the window
+# dynamic_padding = false # Spread additional padding evenly
+
+# Scrolling
+[scrolling]
+history = 10000 # Number of lines in scrollback
+# multiplier = 3 # Number of lines the viewport moves per scroll event
+
+# Font configuration
+[font]
+# Normal font
+# [font.normal]
+# family = "monospace" # Default is a monospace font
+normal.family = "JetBrainsMono Nerd Font" # Default is a monospace font
+normal.style = "Light"
+#style = "Regular"
+size = 12 # Default font size in points
+# builtin_box_drawing = true # Use a custom built-in font for box drawing
+
+# Colors
+[colors.primary]
+foreground = "#d8d8d8" # Default foreground color
+background = "#181818" # Default background color
+
+# Cursor
+[cursor]
+# style = { shape = "Block", blinking = true }
+# blink_interval = 300
+# ...
