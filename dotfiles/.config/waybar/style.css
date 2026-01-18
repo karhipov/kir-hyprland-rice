@@ -53,12 +53,12 @@ button:hover {
 
 /* you can set a style on hover for any module like this */
 #pulseaudio:hover {
-    background-color: #f68d63;
+    background-color: #3a90d1;
 }
 
 #workspaces {
     /* padding: 0 10px;  */
-    background-color: #F3682F;
+    background-color: #0077D3;
     border-radius: 15px;
     border: 1px solid white;
     /* color: #ffffff; */
@@ -75,13 +75,14 @@ button:hover {
 #workspaces button.active {
     /* padding: 0 5px; */
     background-color: #ffffff;
-    color: #F3682F;
+    color: #0077D3;
 }
 
 #workspaces button:hover {
     /* background: rgba(0, 0, 0, 0.2); */
     /* padding: 0 5px; */
-    background-color: #f68d63;
+  
+    background-color: #3a90d1;
 ;
     color: #ffffff;
 }
@@ -139,11 +140,11 @@ button:hover {
 }
 
 #clock {
-    background-color: #F3682F;
+    background-color: #0077D3;
 }
 
 #language {
-    background: #F3682F;
+    background: #0077D3;
     padding: 0 10px;
     color: #ffffff;
     border-radius: 15px;
@@ -206,7 +207,7 @@ label:focus {
 }
 
 #cpu {
-    background-color: #F3682F;
+    background-color: #0077D3;
     /* color: #000000; */
 }
 
@@ -223,7 +224,7 @@ label:focus {
 }
 
 #network {
-    background-color: #F3682F;
+    background-color: #0077D3;
 }
 
 #network.disconnected {
@@ -231,7 +232,7 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: #F3682F;
+    background-color: #0077D3;
     /* color: #000000; */
 }
 
